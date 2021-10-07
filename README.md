@@ -8,14 +8,25 @@ One aditional video explain in detail all the steps for the instalation: https:/
 
 The packages that we will use are:
 install.packages("metafor")
+
 install.packages("meta")
+
 install.packages("pimeta")
+
 install.packages("bamdit")
+
 install.packages("metaDigitise")
+
 install.packages("revtools")
+
 library(metaDigitise)
+
 library(revtools)
+
 library(bamdit)
+
 library(pimeta)
+
 library(meta)
+
 library(metafor)
